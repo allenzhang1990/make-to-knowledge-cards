@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片整理"
+  short_description: "把文章内容提炼为简洁、去重、忠于原文的结构化知识卡片"
+  default_prompt: "使用 $make-knowledge-cards 将这篇文章提炼成知识卡片。"
